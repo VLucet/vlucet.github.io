@@ -1,0 +1,31 @@
+name: Build and deploy wesbite
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 11 * *'
+
+jobs:
+  linux:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@master
+
+      - name: Install apt-get packages
+        run: |-
+          sudo apt-get update
+          sudo apt-get install -y hugo 
+
+      - name: Deploy inSileco Blog to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./public
