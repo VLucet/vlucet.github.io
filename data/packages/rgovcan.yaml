@@ -1,0 +1,9 @@
+name: "rgovcan"
+github: vlucet/rgovcan
+category: "Creator, Maintainer"
+description: "Easy access to the Canadian Open Government Portal."
+website: "http://vlucet.github.io/rgovcan/"
+badges:
+  codecov:
+    repo: gh/vlucet/rgovcan
+  repostatus: active
