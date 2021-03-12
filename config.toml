@@ -6,7 +6,6 @@ enableEmoji = true
 
 [params]
   author = "Valentin Lucet"
-  description = "Description goes here"
   # favicon = "favicon.ico"  # path to a .ico to use as favicon
   # logo = ""  # url or path to a logo to put in the header
   [params.footer]
