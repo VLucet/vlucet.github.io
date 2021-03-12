@@ -11,3 +11,4 @@ I am an Ecologist at the consulting firm APEX RMS, and an R package developer (a
 ### R packages
 
 I have developped and/or contributed the following R 📦: 
+
