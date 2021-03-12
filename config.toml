@@ -1,6 +1,6 @@
 baseURL = "https://vlucet.github.io/"
 languageCode = "en-us"
-title = "Val. Lucet (M.Sc.)"
+title = "Val. Lucet"
 theme = "researcher"
 enableEmoji = true
 
