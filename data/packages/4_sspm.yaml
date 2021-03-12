@@ -1,6 +1,6 @@
 name: "sspm"
 github: pedersen-fisheries-lab/sspm
-category: "Contributor, Maintainer"
+category: "Author, Maintainer"
 description: "GAM-based Spatial Surplus Production Models."
 website: "https://pedersen-fisheries-lab.github.io/sspm/"
 logo: "blob/main/man/figures/logo.png?raw=true"
