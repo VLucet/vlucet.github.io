@@ -12,7 +12,9 @@ I am an Ecologist at the consulting firm APEX RMS, and an R package developer (a
 
 I have developped and/or contributed the following R 📦: 
 
-{{< package >}}
+<span style="display:inline-block; width: 1000px;"></span>
+
+{{< packages >}}
 
 #### Creator, Maintainer
 
