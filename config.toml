@@ -1,5 +1,4 @@
 baseURL = "https://vlucet.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "m10c"
 title = "Val. Lucet (M.Sc.)"
+theme = "m10c"
