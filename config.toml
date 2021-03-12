@@ -12,12 +12,6 @@ enableEmoji = true
   [params.footer]
     text = "Valentin Lucet (from a theme by Olivier Roques)"
     url = "https://github.com/ojroques/hugo-researcher"
-  [params.style]  # appearance options (can be omitted)
-    fontFamily = "Inconsolata"
-    pageWidth = "1000px"
-    avatarSize = "200px"
-    colorBlack = "#222222"
-    colorRed = "#dc3545"
 
 [permalinks]
   "/" = "/:filename"
