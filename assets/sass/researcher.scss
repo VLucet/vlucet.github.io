@@ -1,6 +1,6 @@
 // Sizes
 $max-width: {{ .Param "style.pageWidth" | default "1100px;" }};
-$avatar-size: {{ .Param "style.avatarSize" | default "150px;" }};
+$avatar-size: {{ .Param "style.avatarSize" | default "170px;" }};
 
 // Colors
 $black: {{ .Param "style.colorBlack" | default "#222222" }};
@@ -60,6 +60,7 @@ $y-medium: 1.0rem;
     // font-size: 1em;
 }
 #content {
+    // ADDED ELEMENTS
     .panel {
         margin-bottom: 20px;
         border: 1px solid transparent;
@@ -77,6 +78,8 @@ $y-medium: 1.0rem;
     p {
         margin-bottom: $y-small;
     }
+    // END ADDED ELEMENTS
+
     h1, h2, h3, h4, h5, h6 {
         font-size: medium;
         font-weight: bold;
