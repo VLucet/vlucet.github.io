@@ -12,6 +12,8 @@ I am an Ecologist at the consulting firm APEX RMS, and an R package developer (a
 
 I have developped and/or contributed the following R 📦: 
 
+{{< package >}}
+
 #### Creator, Maintainer
 
 {{< figure class="hex" width=150px src="https://github.com/VLucet/rgovcan/blob/master/man/figures/logo.png?raw=true">}}
