@@ -7,18 +7,6 @@ title = "Contact"
 
 ---
 
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+- [Twitter](https://twitter.com/VLucet)
