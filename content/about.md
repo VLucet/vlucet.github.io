@@ -14,18 +14,20 @@ I have developped and/or contributed the following R 📦:
 
 #### Creator, Maintainer
 
-<a href="https://github.com/VLucet/rgovcan" aria-label="link to rgovcan project"> <img align="left" src="https://github.com/VLucet/rgovcan/blob/master/man/figures/logo.png?raw=true" alt="" width="150"> </a> 
-<a href="https://github.com/VLucet/rgeobon" aria-label="link to rgeobon project"> <img align="left" src="https://github.com/VLucet/rgeobon/blob/master/inst/images/sticker.png?raw=true" alt="" width="150"> </a>
-<a href="https://github.com/VLucet/rgrassdoc" aria-label="link to rgrassdoc project"> <img align="left" src="https://github.com/VLucet/rgrassdoc/blob/master/images/final_sticker.png?raw=true" alt="" width="150"> </a>
+{{< figure class="hex" width=150px src="https://github.com/VLucet/rgovcan/blob/master/man/figures/logo.png?raw=true">}}
+{{< figure class="hex" src="https://github.com/VLucet/rgeobon/blob/master/inst/images/sticker.png?raw=true" >}}
+{{< figure class="hex" src="https://github.com/VLucet/rgrassdoc/blob/master/images/final_sticker.png?raw=true" >}}
 
 <span style="display:inline-block; width: 1000px;"></span>
 
 #### Author, Maintainer
 
-<a href="https://github.com/pedersen-fisheries-lab/sspm" aria-label="link to the rsyncrosim project"> <img align="left" src="https://raw.githubusercontent.com/pedersen-fisheries-lab/sspm/main/man/figures/logo.png" alt="" width="150"> </a>
+{{< figure class="hex" src="https://raw.githubusercontent.com/pedersen-fisheries-lab/sspm/main/man/figures/logo.png" >}}
 
 <span style="display:inline-block; width: 1000px;"></span>
 
 #### Author, Contributor
 
-<a href="https://github.com/syncrosim/rsyncrosim" aria-label="link to the rsyncrosim project"> <img align="left" src="https://github.com/syncrosim/rsyncrosim/blob/dev/man/figures/logo.png?raw=true" alt="" width="150"> </a>
+{{< figure class="hex" src="https://github.com/syncrosim/rsyncrosim/blob/dev/man/figures/logo.png?raw=true" >}}
+
+<span style="display:inline-block; width: 1000px;"></span>

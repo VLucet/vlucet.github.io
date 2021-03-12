@@ -9,6 +9,9 @@ enableEmoji = true
   description = "Description goes here"
   # favicon = "favicon.ico"  # path to a .ico to use as favicon
   # logo = ""  # url or path to a logo to put in the header
+  [params.footer]
+    text = "Valentin Lucet (from a theme by Olivier Roques)"
+    url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "1000px"
