@@ -78,7 +78,10 @@ $y-medium: 1.0rem;
     p {
         margin-bottom: $y-small;
     }
-    // END ADDED ELEMENTS
+    .fa {
+        color: $black;
+    }
+    // END
 
     h1, h2, h3, h4, h5, h6 {
         font-size: medium;
@@ -101,11 +104,6 @@ $y-medium: 1.0rem;
         margin: -8px 0 0 16px;
         height: $avatar-size;
         width: $avatar-size;
-    }
-    .hex > img {
-        float: left;
-        margin: 10px 10px 10px 10px;
-        width: 150px;
     }
     ol {
         counter-reset: list;

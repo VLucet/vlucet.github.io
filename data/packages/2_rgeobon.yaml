@@ -1,0 +1,12 @@
+name: "rgeobon"
+github: vlucet/rgeobon
+category: "Creator, Maintainer"
+description: "The R interface to GEOBON's EBV open data portal API."
+logo: "blob/master/inst/images/sticker.png?raw=true"
+badges:
+  codecov:
+    repo: gh/vlucet/rgeobon
+  repostatus: active
+  license:
+    svg: "License-MIT-yellow"
+    url: "https://opensource.org/licenses/MIT"

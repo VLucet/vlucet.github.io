@@ -1,0 +1,10 @@
+name: "rgrassdoc"
+github: vlucet/rgrassdoc
+category: "Creator, Maintainer"
+description: "Consult the GRASS GIS documentation in the RStudio Viewer pane or in your browser."
+logo: "blob/master/images/final_sticker.png?raw=true"
+badges:
+  repostatus: wip
+  license:
+    svg: "License-MIT-yellow"
+    url: "https://opensource.org/licenses/MIT"
