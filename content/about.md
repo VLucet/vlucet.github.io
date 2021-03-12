@@ -6,7 +6,11 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-I am an Ecologist at the consulting firm APEX RMS, and an R package developer (and aspiring Research software engineer) at Concordia Univeristy. I am especially interested in reproducibility and open science. On my free time I love to bird at the Montreal Mont-Royal park. Originally from 🇫🇷 but increasingly 🇨🇦. 
+Hi there! 👋 My name is Val and **I write code** and **design tools** to allow us to **take better care of the environment**.
+
+I am an Ecologist at the consulting firm [APEX RMS](https://apexrms.com/), and an R package developer (and aspiring Research software engineer) at [Concordia Univeristy](https://www.concordia.ca/) in Montreal (in the lab of [Dr. Eric Pedersen](https://www.pedersenfisherieslab.com/)). I am especially interested in reproducibility and open science. In my free time I love to bird at the Montreal Mont-Royal park. Originally from 🇫🇷 but increasingly 🇨🇦. 
+
+I hold a **B.Sc. (Hons)** and a **M.Sc.** both in Ecology, from [McGill University](https://www.mcgill.ca/library/).
 
 Follow me on :
 
@@ -16,7 +20,7 @@ Follow me on :
 
 ### Software
 
-I have developped and/or contributed the following R 📦: 
+I have developped and/or contributed to the following R 📦: 
 
 <span style="display:inline-block; width: 1000px;"></span>
 
