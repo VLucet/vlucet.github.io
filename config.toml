@@ -12,7 +12,7 @@ enableEmoji = true
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "1000px"
-    avatarSize = "120px"
+    avatarSize = "200px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
 
