@@ -25,3 +25,5 @@ I have developped and/or contributed to the following R 📦:
 <span style="display:inline-block; width: 1000px;"></span>
 
 {{< packages >}}
+
+<span style="display:inline-block; width: 1000px;"></span>

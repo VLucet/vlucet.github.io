@@ -62,17 +62,18 @@ $y-medium: 1.0rem;
 #content {
     // ADDED ELEMENTS
     .panel {
-        margin-bottom: 20px;
+        margin-bottom: 25px;
         border: 1px solid transparent;
         border-radius: 4px;
-        //max-width: 500px;
+        min-height: 270px;
+        max-height: 270px;
     }
     .panel-default {
         border-color: #080808;
         //max-width: 500px;
     }
     .panel-body {
-        padding: 15px;
+        padding: 5px;
     }
     a {
         @extend %link-default;
