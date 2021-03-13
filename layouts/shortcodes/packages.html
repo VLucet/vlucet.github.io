@@ -38,8 +38,9 @@
                   src="https://img.shields.io/badge/{{ .svg }}.svg"></a>
               {{ end }}
               {{ with .codecov }}
-              <a href="https://codecov.io/{{ .repo }}"><img alt="codecov" align="left" height="20px" style="padding-right: 20px;" 
-                  src="https://codecov.io/{{ .repo }}/branch/{{ .branch | default "master"}/graph/badge.svg"></img></a>
+              <a href="https://codecov.io/{{ .repo }}"><img alt="codecov" align="left" height="20px"
+                  style="padding-right: 20px;" 
+                  src="https://codecov.io/{{ .repo }}/branch/{{ .branch | default "master"}}/graph/badge.svg"></img></a>
               {{ end }}
               {{ end }}
             </div>
