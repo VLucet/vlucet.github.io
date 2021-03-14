@@ -9,5 +9,5 @@ badges:
   codecov:
     repo: "gh/vlucet/rgrassdoc"
   license:
-    svg: "License-MIT-yellow"
-    url: "https://opensource.org/licenses/MIT"
+    svg: "License-GPL%20v3-blue"
+    url: "https://www.gnu.org/licenses/gpl-3.0"
