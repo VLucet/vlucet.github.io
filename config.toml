@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Val. Lucet"
 theme = "researcher"
 enableEmoji = true
-googleAnalytics = "G-FCRQFEXTVM"
 
 [params]
   author = "Valentin Lucet"
