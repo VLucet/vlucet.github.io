@@ -5,7 +5,7 @@ description: "Consult the GRASS GIS documentation in the RStudio Viewer pane or 
 website: "http://vlucet.github.io/rgrassdoc/"
 logo: "blob/master/man/figures/logo.png?raw=true"
 badges:
-  repostatus: wip
+  repostatus: active
   codecov:
     repo: "gh/vlucet/rgrassdoc"
   license:
