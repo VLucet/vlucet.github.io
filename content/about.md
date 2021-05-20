@@ -8,7 +8,7 @@ title = "About"
 
 Hi there! 👋 My name is Val and **I write code** and **design tools** to allow us to **take better care of the environment**.
 
-I am an Ecologist at [APEX RMS](https://apexrms.com/), and an <i class="fab fa-r-project" aria-hidden="true"></i>&nbsp; package developer (and aspiring Research software engineer) at [Concordia Univeristy](https://www.concordia.ca/) in Montreal (in the lab of [Dr. Eric Pedersen](https://www.pedersenfisherieslab.com/)). I am especially interested in reproducibility and open science. In my free time I love to bird at the Montreal Mont-Royal park. Originally from 🇫🇷 but from 🇨🇦 at heart. 
+I am a research software developer, currently working as a <i class="fab fa-r-project" aria-hidden="true"></i>&nbsp; package developer at [Concordia Univeristy](https://www.concordia.ca/) in Montreal (in the lab of [Dr. Eric Pedersen](https://www.pedersenfisherieslab.com/)). I am especially interested in reproducibility and open science. In my free time I love to bird at the Montreal Mont-Royal park. I am originally from 🇫🇷 but from 🇨🇦 at heart. 
 
 I hold a **B.Sc. (Hons)** and a **M.Sc.** both in Ecology, from [McGill University](https://www.mcgill.ca/library/).
 
