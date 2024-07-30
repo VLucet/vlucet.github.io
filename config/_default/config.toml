@@ -13,4 +13,7 @@ summaryLength = 0
   home = ["HTML", "RSS", "JSON"]
 
 # version 4
-googleAnalytics = "G-P0SM6PK82Q"
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-P0SM6PK82Q'
