@@ -20,11 +20,11 @@ title = "Val. Lucet"
   bio = "BIO"
   links = [
     { email = "mailto:valentin.lucet@gmail.com" },
-    { github = "https://github.com/VLucet" },
     { google-scholar = "https://scholar.google.com/citations?user=cIHIw5IAAAAJ&hl" },
     { orcid = "https://orcid.org/0000-0003-0268-818X" },
     { linkedin = "https://www.linkedin.com/in/valentin-lucet/" },
     { x-twitter = "https://x.com/vlucet" },
+    # { github = "https://github.com/VLucet" },
     # { mastodon = "https://mastodon.instance/@username" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
