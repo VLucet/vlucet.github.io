@@ -16,7 +16,7 @@ title = "Val. Lucet"
 [params.author]
   name = "Valentin Lucet"
   image = "img/author.jpg"
-  headline = "Ecology, Reproducibility, 🔭🐦‍⬛"
+  headline = "Ecology, Reproducibility, 🔭🐦‍"
   bio = "BIO"
   links = [
     { email = "mailto:valentin.lucet@gmail.com" },
