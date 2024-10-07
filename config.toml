@@ -18,7 +18,7 @@ enableEmoji = true
 [menu]
   [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "/"
     weight = 1
   # [[menu.main]]
   #   name = "CV"
