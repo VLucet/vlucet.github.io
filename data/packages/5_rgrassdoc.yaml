@@ -1,0 +1,13 @@
+name: "rgrassdoc"
+github: vlucet/rgrassdoc
+category: "Creator, Maintainer"
+description: "Consult the GRASS GIS documentation in the RStudio Viewer pane or in your browser."
+website: "http://vlucet.github.io/rgrassdoc/"
+logo: "blob/master/man/figures/logo.png?raw=true"
+badges:
+  repostatus: active
+  codecov:
+    repo: "gh/vlucet/rgrassdoc"
+  license:
+    svg: "License-GPL%20v3-blue"
+    url: "https://www.gnu.org/licenses/gpl-3.0"

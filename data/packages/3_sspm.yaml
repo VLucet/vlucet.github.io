@@ -1,0 +1,14 @@
+name: "sspm"
+github: pedersen-fisheries-lab/sspm
+category: "Author, Maintainer"
+description: "GAM-based Spatial Surplus Production Models."
+website: "https://pedersen-fisheries-lab.github.io/sspm/"
+logo: "blob/main/man/figures/logo.png?raw=true"
+badges:
+  repostatus: wip
+  codecov:
+    repo: "gh/pedersen-fisheries-lab/sspm"
+    branch: "main"
+  license:
+    svg: "License-MIT-yellow"
+    url: "https://opensource.org/licenses/MIT"

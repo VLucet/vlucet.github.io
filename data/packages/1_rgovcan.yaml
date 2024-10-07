@@ -1,0 +1,13 @@
+name: "rgovcan"
+github: vlucet/rgovcan
+category: "Creator, Maintainer"
+description: "Easy access to the Canadian Open Government Portal."
+website: "http://vlucet.github.io/rgovcan/"
+logo: "blob/master/man/figures/logo.png?raw=true"
+badges:
+  codecov:
+    repo: "gh/vlucet/rgovcan"
+  repostatus: active
+  license:
+    svg: "License-GPL%20v3-blue"
+    url: "https://www.gnu.org/licenses/gpl-3.0"

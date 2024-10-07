@@ -1,0 +1,37 @@
+baseURL = "https://vlucet.github.io/"
+languageCode = "en-us"
+title = "Val. Lucet"
+theme = "researcher"
+enableEmoji = true
+
+[params]
+  author = "Valentin Lucet"
+  # favicon = "favicon.ico"  # path to a .ico to use as favicon
+  # logo = ""  # url or path to a logo to put in the header
+  [params.footer]
+    text = "Valentin Lucet (from a theme by Olivier Roques)"
+    url = "https://github.com/ojroques/hugo-researcher"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "CV"
+    url = "https://github.com/VLucet/CV/blob/master/cv.pdf"
+    weight = 2
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching"
+    weight = 3
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files

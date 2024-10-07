@@ -1,0 +1,11 @@
+name: "rsyncrosim"
+github: syncrosim/rsyncrosim
+category: "Author"
+description: "The R interface to SyncroSim."
+website: "https://syncrosim.github.io/rsyncrosim/"
+logo: "blob/dev/man/figures/logo.png?raw=true"
+badges:
+  repostatus: active
+  license:
+    svg: "License-MIT-yellow"
+    url: "https://opensource.org/licenses/MIT"
