@@ -12,6 +12,8 @@ I am a research software engineer, currently working as an ecologist and researc
 
 I hold a **B.Sc. (Hons)** and a **M.Sc.** both in Ecology, from [McGill University](https://www.mcgill.ca/).
 
+{{< random-portfolio-image >}}
+
 Follow me on :
 
 <a href="https://github.com/vlucet/" style="display:inline;"><i class="fab fa-2x fa-github" aria-hidden="true"></i>&nbsp;&nbsp;</a>

@@ -1,0 +1,52 @@
+<!-- From Claude -->
+
+<!-- layouts/shortcodes/random-portfolio-image.html -->
+
+<div id="featured-portfolio" class="featured-portfolio">
+  <!-- Image will be inserted here by JavaScript -->
+</div>
+
+{{ partial "portfolio-data.html" . }}
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const featuredPortfolio = document.getElementById('featured-portfolio');
+    
+    // If we have images, select a random one
+    if (portfolioImages && portfolioImages.length > 0) {
+      // Get a random index each time the page loads
+      const randomIndex = Math.floor(Math.random() * portfolioImages.length);
+      const randomImage = portfolioImages[randomIndex];
+      
+      // Create the image element
+      const imageElement = document.createElement('img');
+      imageElement.src = randomImage.src;
+      imageElement.alt = randomImage.title;
+      imageElement.className = 'featured-portfolio-image';
+      imageElement.title = randomImage.description;
+      
+      // Create the caption
+      const captionDiv = document.createElement('div');
+      captionDiv.className = 'image-caption';
+      
+      const titleElement = document.createElement('h3');
+      titleElement.textContent = randomImage.title;
+      
+      const descElement = document.createElement('p');
+      descElement.textContent = randomImage.description;
+      
+      // Assemble all elements
+      captionDiv.appendChild(titleElement);
+      captionDiv.appendChild(descElement);
+      
+      featuredPortfolio.appendChild(imageElement);
+      featuredPortfolio.appendChild(captionDiv);
+    } else {
+      // No images found
+      const emptyMessage = document.createElement('p');
+      emptyMessage.textContent = 'No portfolio images available';
+      featuredPortfolio.appendChild(emptyMessage);
+      featuredPortfolio.classList.add('empty');
+    }
+  });
+</script>
