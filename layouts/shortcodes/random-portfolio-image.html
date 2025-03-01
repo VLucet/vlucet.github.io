@@ -1,9 +1,14 @@
 <!-- From Claude -->
+{{ $width := default "600" (.Get "width") }}
+{{ $height := default "250" (.Get "height") }}
+{{ $position := default "center" (.Get "position") }}
 
-<!-- layouts/shortcodes/random-portfolio-image.html -->
-
-<div id="featured-portfolio" class="featured-portfolio">
-  <!-- Image will be inserted here by JavaScript -->
+<div 
+  id="featured-portfolio" 
+  class="featured-portfolio position-{{ $position }}"
+  style="max-width: {{ $width }}px; height: {{ $height }}px;"
+>
+  <!-- Image and caption will be inserted here by JavaScript -->
 </div>
 
 {{ partial "portfolio-data.html" . }}
@@ -18,14 +23,7 @@
       const randomIndex = Math.floor(Math.random() * portfolioImages.length);
       const randomImage = portfolioImages[randomIndex];
       
-      // Create the image element
-      const imageElement = document.createElement('img');
-      imageElement.src = randomImage.src;
-      imageElement.alt = randomImage.title;
-      imageElement.className = 'featured-portfolio-image';
-      imageElement.title = randomImage.description;
-      
-      // Create the caption
+      // Create the caption first (this will be placed above the image)
       const captionDiv = document.createElement('div');
       captionDiv.className = 'image-caption';
       
@@ -35,12 +33,19 @@
       const descElement = document.createElement('p');
       descElement.textContent = randomImage.description;
       
-      // Assemble all elements
+      // Create the image element
+      const imageElement = document.createElement('img');
+      imageElement.src = randomImage.src;
+      imageElement.alt = randomImage.title;
+      imageElement.className = 'featured-portfolio-image';
+      imageElement.title = randomImage.description;
+      
+      // Assemble all elements - caption first, then image
       captionDiv.appendChild(titleElement);
       captionDiv.appendChild(descElement);
       
-      featuredPortfolio.appendChild(imageElement);
       featuredPortfolio.appendChild(captionDiv);
+      featuredPortfolio.appendChild(imageElement);
     } else {
       // No images found
       const emptyMessage = document.createElement('p');
