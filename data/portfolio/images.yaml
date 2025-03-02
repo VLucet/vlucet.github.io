@@ -1,0 +1,9 @@
+images:
+  - src: "/images/portfolio/test1.jpg"
+    title: "Environmental Monitoring Tool"
+    description: "Web application for tracking wildlife populations"
+
+  - src: "/images/portfolio/test2.jpg"
+    title: "Forest Canopy Analysis"
+    description: "Statistical model for assessing forest health"
+
