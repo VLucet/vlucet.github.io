@@ -1,6 +1,5 @@
-<!-- layouts/shortcodes/random-portfolio-image.html -->
 <div id="featured-portfolio" class="featured-portfolio">
-  <!-- Image will be inserted here by JavaScript -->
+  <!-- Image and caption will be inserted here by JavaScript -->
 </div>
 
 {{ partial "portfolio-data.html" . }}
@@ -14,6 +13,10 @@
       // Get a random index each time the page loads
       const randomIndex = Math.floor(Math.random() * portfolioImages.length);
       const randomImage = portfolioImages[randomIndex];
+      
+      // Create the image and caption container
+      const portfolioContainer = document.createElement('div');
+      portfolioContainer.className = 'portfolio-container';
       
       // Create the image element
       const imageElement = document.createElement('img');
@@ -36,8 +39,12 @@
       captionDiv.appendChild(titleElement);
       captionDiv.appendChild(descElement);
       
-      featuredPortfolio.appendChild(captionDiv);
-      featuredPortfolio.appendChild(imageElement);
+      // Add the image and caption to the portfolio container
+      portfolioContainer.appendChild(captionDiv);
+      portfolioContainer.appendChild(imageElement);
+      
+      // Append the portfolio container to the featured portfolio div
+      featuredPortfolio.appendChild(portfolioContainer);
       
     } else {
       // No images found

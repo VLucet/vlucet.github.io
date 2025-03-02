@@ -1,86 +1,23 @@
 /* Add this to your theme's CSS file or create a custom.css in static/css/ */
-
 .featured-portfolio {
-  position: relative;
-  width: 100%;
-  max-width: 500px;          /* Reduced maximum width */
-  height: 200px;             /* Smaller height */
-  overflow: hidden;
-  margin: 0 auto 1.5rem auto; /* Reduced bottom margin */
-  border-radius: 6px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  clear: both;              /* Prevents layout conflicts */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
 }
 
-.featured-portfolio-image {
+.portfolio-container {
+  display: flex;
   width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transition: transform 0.5s ease;
-}
-
-.featured-portfolio:hover .featured-portfolio-image {
-  transform: scale(1.03);
 }
 
 .image-caption {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0, 0, 0, 0.7);
-  color: white;
-  padding: 0.5rem;          /* Smaller padding */
-  transform: translateY(100%);
-  transition: transform 0.3s ease;
+  width: 25%; /* 25% for the caption */
+  padding-right: 20px; /* Optional padding between caption and image */
+  padding-top: 70px;
 }
 
-.featured-portfolio:hover .image-caption {
-  transform: translateY(0);
-}
-
-.image-caption h3 {
-  margin: 0 0 0.2rem 0;     /* Smaller margin */
-  font-size: 0.9rem;        /* Smaller font */
-}
-
-.image-caption p {
-  margin: 0;
-  font-size: 0.8rem;        /* Smaller font */
-  opacity: 0.9;
-}
-
-/* For accessibility - show caption on focus too */
-.featured-portfolio:focus-within .image-caption {
-  transform: translateY(0);
-}
-
-/* Make sure it looks good on mobile too */
-@media (max-width: 768px) {
-  .featured-portfolio {
-    height: 150px;          /* Even smaller on mobile */
-    max-width: 100%;        /* Full width on mobile */
-  }
-  
-  .image-caption {
-    padding: 0.4rem;
-  }
-  
-  .image-caption h3 {
-    font-size: 0.8rem;
-  }
-  
-  .image-caption p {
-    font-size: 0.7rem;
-  }
-}
-
-/* Style for empty state */
-.featured-portfolio.empty {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #f5f5f5;
-  color: #666;
-  height: 100px;            /* Smaller empty state */
+.featured-portfolio-image {
+  width: 75%; /* 75% for the image */
+  object-fit: cover; /* Makes sure the image fills the space without distortion */
 }

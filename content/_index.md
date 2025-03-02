@@ -20,11 +20,11 @@ I am **open to work from May to July 2025**.
 
 ### When I am not doing science... 📷
 
-... I love to go **birding** and read speculative fiction. 
+...I love to go **birding** and read speculative fiction. 
 
-I've also developed an interest in **photography**: catch a glimpse of my humble work below (refresh the page to see more!).
+<!-- I've also developed an interest in **photography**: catch a glimpse of my humble work below (refresh the page to see more!). -->
 
-{{< random-portfolio-image >}}
+<!-- {{< random-portfolio-image >}} -->
 
 Follow me on :
 
