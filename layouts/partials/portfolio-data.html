@@ -1,5 +1,12 @@
 <!-- layouts/partials/portfolio-data.html -->
 
 <script>
-  const portfolioImages = {{ site.Data.portfolio.images.images | jsonify | safeJS }};
+  // Safely parse the portfolio data from Hugo's data files
+  const portfolioImages = JSON.parse(
+    {{ with site.Data.portfolio.images.images }}
+      {{ . | jsonify }}
+    {{ else }}
+      "[]"
+    {{ end }}
+  );
 </script>
