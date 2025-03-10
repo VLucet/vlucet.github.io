@@ -33,9 +33,13 @@ enableEmoji = true
     url = "/teaching"
     weight = 4
   [[menu.main]]
+    name = "Photography"
+    url = "/portofolio"
+    weight = 5
+  [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 5
+    weight = 6
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
