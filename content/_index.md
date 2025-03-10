@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-### Hi there! 👋
+## Hi there! 👋
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 

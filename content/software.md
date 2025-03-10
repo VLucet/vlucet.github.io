@@ -2,7 +2,7 @@
 title = "Software"
 +++
 
-### Software
+## Software
 
 I have developped and/or contributed to the following <i class="fab fa-r-project" aria-hidden="true"></i> packages:
 
