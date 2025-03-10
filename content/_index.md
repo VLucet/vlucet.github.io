@@ -20,7 +20,10 @@ I am **open to work from May to July 2025**.
 
 ### When I am not doing science 📷
 
-I enjoy **birding** (find me on [ebird](https://ebird.org/profile/MTM4Mzc5NA/world)) and I've developed an interest in **photography**: catch a glimpse of my humble work below (refresh the page to see more!).
+
+I enjoy **birding** (find me on [ebird](https://ebird.org/profile/MTM4Mzc5NA/world)) and I've developed an interest in **photography**.
+
+<!-- I enjoy **birding** (find me on [ebird](https://ebird.org/profile/MTM4Mzc5NA/world)) and I've developed an interest in **photography**: catch a glimpse of my humble work below (refresh the page to see more!). -->
 
 <!-- {{< random-portfolio-image >}} -->
 
