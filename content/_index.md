@@ -12,20 +12,15 @@ I hold a **B.Sc. (Hons)** and a **M.Sc.** both in Ecology, from [McGill Universi
 
 I am originally from 🇫🇷 but now a proud 🇨🇦 permanent resident. 
 
-### What I am up to 💻
+Find my science on [Google Scholar](https://scholar.google.ca/citations?user=cIHIw5IAAAAJ&hl).
 
-I am currently a research software developper at [Laurier Univeristy](https://www.wlu.ca/) in the Wild Lab of [Prof. Frances Stewart](http://www.stewartresearch.ca/) working on Camera trap data from Northern Ontario. 
+<!-- ### What I am up to 💻
 
-I am **open to work from May to July 2025**.
+I am currently a research software developper at [Laurier Univeristy](https://www.wlu.ca/) in the Wild Lab of [Prof. Frances Stewart](http://www.stewartresearch.ca/) working on Camera trap data from Northern Ontario.  -->
 
-### When I am not doing science 📷
+### When I am not doing science...
 
-
-I enjoy **birding** (find me on [ebird](https://ebird.org/profile/MTM4Mzc5NA/world)) and I've developed an interest in **photography**.
-
-<!-- I enjoy **birding** (find me on [ebird](https://ebird.org/profile/MTM4Mzc5NA/world)) and I've developed an interest in **photography**: catch a glimpse of my humble work below (refresh the page to see more!). -->
-
-<!-- {{< random-portfolio-image >}} -->
+...I'm probably **birding** (find me on [ebird](https://ebird.org/profile/MTM4Mzc5NA/world)) or photographing the world around me.
 
 Follow me on :
 
