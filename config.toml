@@ -32,10 +32,6 @@ enableEmoji = true
     name = "Teaching"
     url = "/teaching"
     weight = 4
-  # [[menu.main]]
-  #   name = "Photography"
-  #   url = "/portofolio"
-  #   weight = 5
   [[menu.main]]
     name = "Contact"
     url = "/contact"
