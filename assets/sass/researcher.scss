@@ -1,6 +1,10 @@
 // Sizes
 $max-width: {{ .Param "style.pageWidth" | default "1200px;" }};
 $avatar-size: {{ .Param "style.avatarSize" | default "300px;" }};
+$avatar-size-mobile: {{ .Param "style.avatarSizeMobile" | default "200px;" }}; // Add a mobile size variable
+
+// Mobile breakpoint
+$breakpoint-mobile: {{ .Param "style.mobileBreakpoint" | default "768px;" }}; // Common tablet/mobile breakpoint
 
 // Colors
 $black: {{ .Param "style.colorBlack" | default "#222222" }};
@@ -108,6 +112,13 @@ $y-medium: 1.0rem;
         margin: -8px 0 0 16px;
         height: $avatar-size;
         width: $avatar-size;
+        
+        // Add media query for mobile devices
+        @media (max-width: $breakpoint-mobile) {
+            height: $avatar-size-mobile;
+            width: $avatar-size-mobile;
+            margin: -5px 0 0 10px; // Optionally adjust margins for mobile too
+        }
     }
     ol {
         counter-reset: list;
