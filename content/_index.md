@@ -6,7 +6,7 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-My name is Val and I **write code**, **design tools**, and **develop methods** to answer questions in **ecology and wildlife monitoring**. I am particularly interested in making environmental sciences practices and solutions more **open** and **reproducible**.
+My name is Val and I am a conservation scientist & research software developer: I **write code**, **design tools**, and **develop methods** to answer questions in **ecology and wildlife monitoring**. I am particularly interested in making environmental sciences practices and solutions more **open** and **reproducible**.
 
 I hold a **B.Sc. (Hons)** and a **M.Sc.** both in Ecology, from [McGill University](https://www.mcgill.ca/). Find my work on [Google Scholar](https://scholar.google.ca/citations?user=cIHIw5IAAAAJ&hl) or via [ORCid](https://orcid.org/0000-0003-0268-818X).
 
