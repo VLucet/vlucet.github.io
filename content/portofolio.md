@@ -1,5 +1,0 @@
-+++
-title = "Portofolio"
-+++
-
-## Photography Portfolio
