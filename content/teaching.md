@@ -26,7 +26,7 @@ A workshop geared toward R users, made by collating different open source materi
 
 <span style="display:inline-block; width: 1000px;"></span>
 
-<img align="right" width="120" height="130" class="classic_img" alt="" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHUbRv4QbPR0A/company-logo_200_200/0/1632946973173?e=2147483647&v=beta&t=1Dr4mfFcYCXykH-JaF8LMgkpmngfaX1VYNv3R1n2ca4">
+<img align="right" height="130" class="classic_img" alt="" src="https://klust.github.io/easybuild-tutorial/img/computecanada.png">
 
 ### [A Very Short Introduction to Compute Canada Resources](https://github.com/VLucet/ComputeCanada-short-intro)
 
