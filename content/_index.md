@@ -18,7 +18,7 @@ I am currently a research software developper at [Laurier Univeristy](https://ww
 
 ### When I am not doing science...
 
-...I'm probably **birding** (find me on [ebird](https://ebird.org/profile/MTM4Mzc5NA/world)) or photographing the world around me.
+...I'm probably birding (find me on [ebird](https://ebird.org/profile/MTM4Mzc5NA/world)) or photographing the world around me.
 
 Follow me on :
 
