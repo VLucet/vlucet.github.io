@@ -2,7 +2,7 @@
 title = "Contact"
 +++
 
-* Email: [valentin.lucet@mail.mcgill.ca](mailto:valentin.lucet@mail.mcgill.ca) // [valentin.lucet@gmail.com](mailto:valentin.lucet@gmail.com)
+* Email: you may reach me (preferably) at [valentin.lucet@gmail.com](mailto:valentin.lucet@gmail.com), or at [valentin.lucet@mail.mcgill.ca](mailto:valentin.lucet@mail.mcgill.ca)
 <!-- * Phone: []() -->
 
 ---
