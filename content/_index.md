@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Val. Lucet"
 +++
 
 ## Hi there! 👋
