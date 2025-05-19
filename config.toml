@@ -20,10 +20,10 @@ enableEmoji = true
     name = "About"
     url = "/"
     weight = 1
-  [[menu.main]]
-    name = "CV"
-    url = "/resume/cv.pdf"
-    weight = 2
+#  [[menu.main]]
+#    name = "CV"
+#    url = "/resume/cv.pdf"
+#    weight = 2
   [[menu.main]]
     name = "Software"
     url = "/software"
