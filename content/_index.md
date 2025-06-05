@@ -12,9 +12,9 @@ I hold a **B.Sc. (Hons)** and a **M.Sc.** both in Biology, from [McGill Universi
 
 Originally from 🇫🇷, I am now a proud 🇨🇦 permanent resident. 
 
-<!-- ### What I am up to 💻
+### What I am up to 💻
 
-I will be joining the [Biodiversity Conservation Solutions lab](https://www.biodiversityconservationsolutions.com/) at [Carleton University](https://carleton.ca/biology/), as part of [The Birds & the Trees Project](https://www.thebirdsthetrees.com/) in Fall 2025. I will be asking questions about conservation actions decision-making and efficiency using causal inference approaches in the context of urban bird mortality reduction. -->
+I will be joining the [Biodiversity Conservation Solutions lab](https://www.biodiversityconservationsolutions.com/) at [Carleton University](https://carleton.ca/biology/), as part of [The Birds & the Trees Project](https://www.thebirdsthetrees.com/) in Fall 2025.
 
 ### When I am not doing science...
 
