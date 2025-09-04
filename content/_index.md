@@ -14,7 +14,7 @@ Originally from 🇫🇷, I am now a proud 🇨🇦 permanent resident.
 
 ### What I am up to 💻
 
-I will be joining the [Biodiversity Conservation Solutions lab](https://www.biodiversityconservationsolutions.com/) at [Carleton University](https://carleton.ca/biology/), as part of [The Birds & the Trees Project](https://www.thebirdsthetrees.com/) in Fall 2025.
+I am a PhD student in the [Biodiversity Conservation Solutions lab](https://www.biodiversityconservationsolutions.com/) at [Carleton University](https://carleton.ca/biology/), as part of [The Birds & the Trees Project](https://www.thebirdsthetrees.com/), working on bird mortality reduction in urban settings.
 
 ### When I am not doing science...
 
