@@ -12,10 +12,6 @@ I hold a **B.Sc. (Hons)** and a **M.Sc.** both in Biology, from [McGill Universi
 
 Originally from 🇫🇷, I am now a proud 🇨🇦 permanent resident. 
 
-### What I am up to 💻
-
-I am a PhD student in the [Biodiversity Conservation Solutions lab](https://www.biodiversityconservationsolutions.com/) at [Carleton University](https://carleton.ca/biology/), as part of [The Birds & the Trees Project](https://www.thebirdsthetrees.com/), working on bird mortality reduction in urban settings.
-
 ### When I am not doing science...
 
 ...I'm probably birding (find me on [ebird](https://ebird.org/profile/MTM4Mzc5NA/world)) or photographing the world around me.
